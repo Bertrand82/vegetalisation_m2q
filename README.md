@@ -3,4 +3,7 @@ https://drive.google.com/drive/folders/10NrWgW3EkG7YAdvI3DKaTmzgGM0Dby4I?dmr=1&e
 
 ## Generation power point
 pandoc presentation.md -o presentation.pptx
-pandoc presentation.md -o presentation.pptx --reference-doc=modele.pptx
+pandoc presentation.md -o presentation.pptx --reference-doc=modele.pptxarticle 
+
+## Generation bulletin 
+A partir de fichier presentation.md écrit un texte pour le bulletin municipal expliquant l'opération "Végétalisons nos maisons"
