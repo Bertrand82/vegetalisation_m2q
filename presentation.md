@@ -1,5 +1,5 @@
 ## Végétalisation de Montpezat de Quercy
-
+![Rue Cariben](images/rue_0_s.jpg){width=80%}
 
 ## Objet
 **Végétaliser les façades de Montpezat:**  
@@ -144,4 +144,13 @@ Plus le dispositif est simple, plus il a de chances de réussir.
 
 - Les vrais bénéfices apparaitront 2 ou 3 ans après le lancement , le temps que les végétaux poussent.
 
+- hors projet: Végétalisation des bâtiments publics,de l'école, de la place de la mairie.
 
+
+## images
+
+![Rue ](images/rue_1_s.jpg){width=80%}
+
+## images
+
+![Rue ](images/rue_2_s.jpg){width=80%}
