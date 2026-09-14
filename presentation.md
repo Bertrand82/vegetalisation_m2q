@@ -37,10 +37,10 @@ Plus le dispositif est simple, plus il a de chances de réussir.
 ## Le programme proposé
 **Un dispositif communal de végétalisation des façades**
 
-- Aide de la mairie pour la mise en place de fosse.
+- Aide de la mairie pour la mise en place de fosse sur le domaine public.
 - Conseil technique sur le choix de la plante.
-- Eventellement, fourniture du végétal à planter.
-- Engagement du riverain pour l'entretien.
+- Eventellement, fourniture du  végétal à planter.
+- Engagement du riverain pour l'entretien, la taille et l'arosage.
 - Phase pilote avant évaluation puis éventuellement généralisation.
 
 ---
