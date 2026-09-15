@@ -1,8 +1,10 @@
-## Végétalisation de Montpezat de Quercy
+## Végétalisation nos murs
 ![Rue Cariben](images/rue_0_s.jpg){width=80%}
 
+
+
 ## Objet
-**Végétaliser les façades de Montpezat :**  
+**Végétaliser les façades de Montpezat**  
 **Un programme simple, visible et participatif pour adapter le village à la répétition des canicules**
 
 *Programme communal d'aide à la création de fosses de plantation en pied de façade sur le domaine public*
@@ -98,7 +100,7 @@ Plus le dispositif est simple, plus il a de chances de réussir.
 
 - La commune supporte le coût de la plantation.
 - Le budget couvre la création des fosses et les petits travaux associés.
-- Les habitants prennent en charge l'entretien courant, il n'y a pas de coûts d'entretien.
+- Les habitants prennent en charge l'entretien (arosage et taille).
 
 ---
 
