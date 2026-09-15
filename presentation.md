@@ -2,7 +2,7 @@
 ![Rue Cariben](images/rue_0_s.jpg){width=80%}
 
 ## Objet
-**Végétaliser les façades de Montpezat:**  
+**Végétaliser les façades de Montpezat :**  
 **Un programme simple, visible et participatif pour adapter le village à la répétition des canicules**
 
 *Programme communal d'aide à la création de fosses de plantation en pied de façade sur le domaine public*
@@ -37,43 +37,42 @@ Plus le dispositif est simple, plus il a de chances de réussir.
 ## Le programme proposé
 **Un dispositif communal de végétalisation des façades**
 
-- Aide de la mairie pour la mise en place de fosse sur le domaine public.
+- Aide de la mairie pour la mise en place de fosses sur le domaine public.
 - Conseil technique sur le choix de la plante.
-- Eventellement, fourniture du  végétal à planter.
-- Engagement du riverain pour l'entretien, la taille et l'arosage.
+- Éventuellement, fourniture du végétal à planter.
+- Engagement du riverain pour l'entretien, la taille et l'arrosage.
 - Phase pilote avant évaluation puis éventuellement généralisation.
 
 ---
 
-## Phase pilote: 50 plantations
+## Phase pilote : 50 plantations
 **Évaluer la faisabilité**
 
 - Voir si les gens sont intéressés.
 - Identifier les difficultés rencontrées.
-- Évaluer des coûts.
+- Évaluer les coûts.
 
 ---
 
 ## Un projet simple, compréhensible par tous
 - Le principe du programme sera décrit dans le bulletin municipal, avec des contrats à remplir.
 - Les habitants intéressés renvoient le contrat signé à la mairie.
-- Un rendez-vous est pris avec un représentant de la mairie: la position de la fosse est marquée à la bombe sur le trottoir
+- Un rendez-vous est pris avec un représentant de la mairie : la position de la fosse est marquée à la bombe sur le trottoir.
 - Les services municipaux mettent en place la fosse et plantent éventuellement le végétal choisi.
-
 
 ---
 
 ## Le « contrat moral » avec les riverains
-**Un contrat entre la mairie et les bénéficiaires de cette offre avec des tâches et engagements pour chacun**
+**Un contrat entre la mairie et les bénéficiaires de cette offre, avec des tâches et engagements pour chacun**
 
-## Tâches et engagement de la mairie
+## Tâches et engagements de la mairie
 
 - Évaluer la faisabilité (proximité des arrivées d'eau, gêne éventuelle à la circulation).
 - Prendre en charge les travaux sur la voirie.
 - Donner un appui technique sur le choix des végétaux.
-- Eventuellement planté le végétal (Si il est en stock)
+- Éventuellement planter le végétal (s'il est en stock).
 
-## Tâches et engagement du riverain
+## Tâches et engagements du riverain
 
 - Choisir des végétaux adaptés.
 - Planter et entretenir les végétaux.
@@ -85,7 +84,7 @@ Plus le dispositif est simple, plus il a de chances de réussir.
 
 ---
 
-##  Risques juridiques et points de vigilance
+## Risques juridiques et points de vigilance
 
 - Sécurité des piétons et de la circulation.
 - Réseaux enterrés et contraintes techniques.
@@ -106,9 +105,9 @@ Plus le dispositif est simple, plus il a de chances de réussir.
 ## Communication vers les habitants
 **Donner envie de participer**
 
-- Annonce dans le bulletin municipal.
+- Annonce dans le bulletin municipal et intramuros.
 - Appel à volontaires.
-- Contrat simple, disponible dans le bulletin municipal, à retourner à la mairie.
+- Contrat simple, disponible dans le bulletin municipal , à retourner à la mairie ou en ligne.
 - Mise en avant des bénéfices pour le village.
 
 ---
@@ -119,7 +118,7 @@ Plus le dispositif est simple, plus il a de chances de réussir.
 ### Indicateurs proposés
 - Nombre de volontaires.
 - Nombre de fosses créées.
-- Taux d'echec (Pas d'entretien).
+- Taux d'échec (pas d'entretien).
 - Satisfaction des habitants.
 
 ---
@@ -136,16 +135,14 @@ Plus le dispositif est simple, plus il a de chances de réussir.
 
 ---
 
-
 ## Conclusion
 **Un projet simple, utile et fédérateur**
 
-- Ce programme permet d'agir vite, à coût maîtrisé, avec les habitants, pour adapter le villages aux canicules.
+- Ce programme permet d'agir vite, à coût maîtrisé, avec les habitants, pour adapter le village aux canicules.
 
-- Les vrais bénéfices apparaitront 2 ou 3 ans après le lancement , le temps que les végétaux poussent.
+- Les vrais bénéfices apparaîtront 2 ou 3 ans après le lancement, le temps que les végétaux poussent.
 
-- hors projet: Végétalisation des bâtiments publics,de l'école, de la place de la mairie.
-
+- Hors projet : végétalisation des bâtiments publics, de l'école, de la place de la mairie.
 
 ## images
 
