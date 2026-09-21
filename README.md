@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/Bertrand82/vegetalisation_m2q/master/presentat
 ## Generation power point
 pandoc presentation.md -o presentation.pptx
 pandoc presentation.md -o presentation.pptx --reference-doc=modele.pptxarticle 
+pandoc convention.md -o convention.pdf
 
 ## Trouver un titre et sous-titre
 
