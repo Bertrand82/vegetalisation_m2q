@@ -79,13 +79,13 @@
 ## Un parcours simple et rapide, compréhensible par tous
 - Le participant signe une convention (en ligne ou sur papier)..
 - Un rendez-vous est pris avec un représentant de la mairie : les positions des fosses sont marquées à la bombe sur le trottoir.
-- Les services municipaux mettent en place les fosse et plantent éventuellement les végétaux choisis.
+- Les services municipaux mettent en place les fosses et plantent éventuellement les végétaux choisis.
 
 ---
 
 ## La « convention » avec les riverains
 
-
+[convention](https://bertrand82.github.io/vegetalisation_m2q/convention.html)
 
 ---
 
@@ -129,10 +129,9 @@
 
 - Le principe du programme.
 - La prise en charge par la mairie du coût des fosses et de certains végétaux.
-- Le cadre du contrat.
-- L'ouverture de l'appel à volontaires.
-- L'inscription du dispositif dans la politique locale de transition écologique.
-- Un bilan après  **50 conventions** signées.
+- Le  principe de la convention.
+- La campagne de communication.
+- Un bilan après **50 conventions** signées.
 
 ---
 
@@ -162,7 +161,7 @@
 
 - Liste des végétaux conseillés et des végétaux déconseillés.
 
-- Planning : Viser un déploiement début 2027 ( Publication Janvier 2027 dans le bulletin municipal;  décision Conseil Municipal fin 2026) 
+- Planning : Viser un déploiement début 2027 ( Publication janvier 2027 dans le bulletin municipal;  décision Conseil Municipal fin 2026) 
 
 ---
 
@@ -172,6 +171,6 @@
 
 - Doctrine municipale de végétalisation des espaces publics ( végétalisation vs  embellissement )
 
-- S'appuyer sur des associations (Jardin partagés) pour une aide (Fourniture des végétaux ? plantation ?)
+- S'appuyer sur des associations (jardin partagé) pour une aide (fourniture des végétaux ? plantation ?)
 
 

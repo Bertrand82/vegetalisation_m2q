@@ -5,11 +5,17 @@ Lien repo github
 
 https://github.com/Bertrand82/vegetalisation_m2q
 
+lien convention.html
+
+https://bertrand82.github.io/vegetalisation_m2q/convention.html
+
 
 Lien de téléchargement direct vers presentation.pptx sur la branche master :
 
 https://raw.githubusercontent.com/Bertrand82/vegetalisation_m2q/master/presentation.pptx
 
+
+https://raw.githubusercontent.com/Bertrand82/vegetalisation_m2q/master/convention.html
 
 
 ## Generation power point
