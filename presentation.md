@@ -19,7 +19,7 @@
 
 - Réduire la température des façades de **4 à 6 °C**.
 - Améliorer le confort d'été des riverains et des passants.
-- Permettre aux riverains, sous le contrôle de la mairie, de planter sur les trottoirs. (C'est interdit aujourd'hui).
+- Permettre aux riverains, sous le contrôle de la mairie, de planter sur les trottoirs. (C'est interdit de modifier le domaine public).
 - Agir : ne plus subir son environnement.
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 
-## Organismes officiels 
+## Organismes officiels d'accompagnement
 
 - Le CAUE 82 (Conseil d’Architecture, d’Urbanisme et de l’Environnement) est un organisme investi d’une mission d’intérêt public.
 
@@ -57,16 +57,18 @@
 - Conseil technique sur le choix de la plante.
 - Éventuellement, fourniture du végétal à planter.
 - Engagement du riverain pour l'entretien, la taille et l'arrosage.
-- Phase pilote avant évaluation puis éventuellement généralisation.
 
 ---
 
-## Phase pilote : 50 participants
-**Évaluer la faisabilité**
+## Faire connaître le projet
+**Communication municipale**
 
-- Faire connaître le projet.
-- Identifier les difficultés rencontrées.
-- Évaluer les coûts et les ressources nécessaires.
+- Affichage en mairie
+- Panneau de communication.
+- Page dans IntraMuros
+- Réunion publique de démarrage.
+- Publication dans bulletin municipal, avec convention à remplir.
+
 ---
 
 ## Fosse de plantation en bordure de rue
@@ -74,29 +76,16 @@
 
 ---
 
-## Un projet simple, compréhensible par tous
-- Le principe du programme sera décrit dans le bulletin municipal, avec des contrats ou chartes à remplir.
-- Les habitants intéressés renvoient le contrat signé à la mairie.
+## Un parcours simple et rapide, compréhensible par tous
+- Le participant signe une convention (en ligne ou sur papier)..
 - Un rendez-vous est pris avec un représentant de la mairie : les positions des fosses sont marquées à la bombe sur le trottoir.
 - Les services municipaux mettent en place les fosse et plantent éventuellement les végétaux choisis.
 
 ---
 
-## Le « contrat » avec les riverains
-**Un contrat entre la mairie et les bénéficiaires de cette offre, avec des tâches et engagements pour chacun**
+## La « convention » avec les riverains
 
-## Tâches et engagements de la mairie
 
-- Évaluer la faisabilité (proximité des réseaux souterrains, gêne éventuelle à la circulation).
-- Prendre en charge les travaux sur la voirie.
-- Donner un appui technique sur le choix des végétaux.
-- Éventuellement planter le végétal (s'il est en stock).
-
-## Tâches et engagements du riverain
-
-- Choisir des végétaux adaptés.
-- Planter et entretenir les végétaux.
-- Respecter les règles de sécurité et d'accessibilité.
 
 ---
 
@@ -123,15 +112,6 @@
 
 ---
 
-## Communication vers les habitants
-**Donner envie de participer**
-
-- Annonce dans le bulletin municipal et IntraMuros.
-- Appel à volontaires.
-- Contrat ou convention simple, disponible dans le bulletin municipal, à retourner à la mairie ou en ligne.
-- Mise en avant des bénéfices pour le village.
-
----
 
 ## Suivi et évaluation
 **Mesurer simplement les résultats**
@@ -148,11 +128,11 @@
 ## Ce que le conseil municipal doit approuver
 
 - Le principe du programme.
-- La phase pilote avec l'objectif de **50 conventions**.
 - La prise en charge par la mairie du coût des fosses et de certains végétaux.
 - Le cadre du contrat.
 - L'ouverture de l'appel à volontaires.
 - L'inscription du dispositif dans la politique locale de transition écologique.
+- Un bilan après  **50 conventions** signées.
 
 ---
 
