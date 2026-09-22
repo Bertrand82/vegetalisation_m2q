@@ -1,42 +1,36 @@
-# Végétalisons nos murs : adaptons Montpezat au changement climatique !
+# Végétalisons nos murs : un projet collectif pour notre village
 
-Face à la répétition des canicules estivales, notre commune s'engage concrètement pour rafraîchir nos ruelles et embellir notre cadre de vie. La municipalité lance un grand programme participatif de végétalisation des façades sur le domaine public.
-
----
-
-### Pourquoi végétaliser nos rues ?
-
-Modifier le domaine public est normalement interdit. Avec ce nouveau dispositif, la mairie vous autorise et vous aide à planter au pied de votre maison !
-
-* **Un rafraîchissement naturel :** la végétation permet de réduire la température des façades de **4 à 6 °C**, améliorant le confort d'été des riverains et des passants.
-* **Une action collective :** la commune ne disposant pas des ressources humaines pour entretenir des plantations partout, c'est **ensemble**, municipalité et habitants, que nous transformerons le village d'ici 5 ans.
-* **Agir plutôt que subir :** l'action,concrète, individuelle et collective,  plutôt que la sidération
+Face aux épisodes de canicule de plus en plus fréquents, la municipalité souhaite engager une démarche d'adaptation du village. La végétalisation de nos rues constitue une réponse concrète, simple et fédératrice.
 
 ---
 
-### Un partenariat simple : la Mairie prépare, vous plantez !
+## Pourquoi végétaliser ?
 
-Inspirée d'expériences réussies dans d'autres communes, la municipalité propose un cadre clair et sécurisé :
+**Adapter le village à la succession de canicules**
 
-#### 1. La Mairie prend à sa charge :
-* L'évaluation technique (vérification des réseaux enterrés et maintien de l'accessibilité des trottoirs).
-* La découpe du trottoir et le creusement de la fosse de plantation (travaux légers et réversibles).
-* Les conseils techniques et la fourniture éventuelle du premier végétal.
-
-#### 2. Le riverain s'engage à :
-* Planter et entretenir son massif (arrosage, taille ).
-* Signer une **convention d'occupation temporaire** définissant les engagements de chacun.
+* **Réduire la température des façades de 4 à 6 °C :** les plantes grimpantes agissent comme un bouclier thermique naturel.
+* **Améliorer le confort d'été :** une fraicheur bénéfique tant pour les riverains que pour les passants.
+* **Autoriser la plantation sur les trottoirs :** alors qu'il est normalement interdit de modifier le domaine public, la mairie souhaite permettre aux habitants d'y planter sous son contrôle.
+* **Agir plutôt que subir :** privilégier l'action concrète, individuelle et collective, plutôt que la sidération face aux canicules.
 
 ---
 
-### Comment participer ?
+## Comment végétaliser le village ?
 
-Le parcours est simple et rapide :
+* **Une action concertée :** la mairie n'a pas les moyens d'entretenir des plantations en grand nombre sur l'ensemble de la commune. Pour obtenir des résultats rapides et massifs, il est indispensable d'associer les habitants.
+* **Un programme communal dédié :** la municipalité met en place un dispositif d'aide à la création de fosses de plantation en pied de façade sur le domaine public.
+* **Un partage clair des rôles :** les services municipaux réalisent les travaux de creusement des fosses (et peuvent éventuellement fournir le végétal), tandis que les habitants s'occupent du suivi régulier (arrosage, taille, soins).
 
-1. **Information & Inscription :** remplissez la convention (disponible ci-joint, en mairie, ou sur IntraMuros).
-2. **Marquage :** un rendez-vous sur place permet de définir l'emplacement idéal de la fosse en fonction du végétal souhaité et des contraintes du trottoir.
-3. **Réalisation :** les services municipaux créent la fosse et vous plantez le végétal.
+---
 
-Une **réunion publique de lancement** sera organisée prochainement pour présenter le dispositif en détail et répondre à toutes vos questions.
+## En pratique : un partenariat simple
 
-**Ensemble, faisons de Montpezat un village plus vert et plus frais !**
+Pour garantir la sécurité et la pérennité du dispositif (gestion des réseaux enterrés, maintien du passage piéton et réversibilité des aménagements), une **convention d'occupation temporaire** sera signée entre le riverain et la commune.
+
+1. **Inscription :** remplissez la convention (disponible en mairie, sur IntraMuros ou dans le prochain bulletin).
+2. **Marquage :** un rendez-vous sur place permet d'identifier l'emplacement idéal sur le trottoir.
+3. **Aménagement :** la mairie crée la fosse et vous installez vos plantations !
+
+## Ensemble, faisons de notre village un espace plus frais, vert et agréable à vivre !
+
+Partageons la vision d'un village végétalisé et plus frais. Chacun doit participer !
