@@ -23,6 +23,11 @@ pandoc presentation.md -o presentation.pptx
 pandoc presentation.md -o presentation.pptx --reference-doc=modele.pptxarticle 
 pandoc convention.md -o convention.pdf
 
+
+## Communication non idéologique
+
+- Ne pas parler de "changement climatique" mais de "lutte contre les canicules"
+
 ## Trouver un titre et sous-titre
 
 ### Semons aujourd'hui les solutions de demain

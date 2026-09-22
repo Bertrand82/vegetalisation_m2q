@@ -1,12 +1,11 @@
 ## Végétalisation de nos murs
 ![Rue Cariben  Avant/Après ](images/rue_0_s.jpg){width=80%}
 
-
-
-## Végétaliser les façades de Montpezat
+## Végétaliser le village de Montpezat
 
 - **Adapter le village à la répétition des canicules** 
-- **Un programme simple, visible et participatif**
+- **La mairie n'a pas les moyens d'entretenir des plantations en nombre**
+- **Pour avoir des résultats rapides et massifs, il faut associer les habitants**
 
 - *Programme communal d'aide à la création de fosses de plantation en pied de façade sur le domaine public*
 
@@ -15,7 +14,7 @@
 ---
 
 ## Pourquoi ce projet ?
-**Répondre concrètement au changement climatique**
+**Répondre concrètement à la succession de canicules **
 
 - Réduire la température des façades de **4 à 6 °C**.
 - Améliorer le confort d'été des riverains et des passants.
@@ -44,7 +43,7 @@
 
 - Le CAUE 82 (Conseil d’Architecture, d’Urbanisme et de l’Environnement) est un organisme investi d’une mission d’intérêt public.
 
-- Il fournit un certain nombre de ressources pour ce type de projet.
+- Il propose un certain nombre de ressources pour ce type de projet.
 
 - [caue-occitanie :](https://www.les-caue-occitanie.fr/dossier-thematique/dossier-permis-de-vegetaliser-les-documents) dossier permis de végétaliser
 
@@ -56,18 +55,18 @@
 - Aide de la mairie pour la mise en place de fosses sur le domaine public.
 - Conseil technique sur le choix de la plante.
 - Éventuellement, fourniture du végétal à planter.
-- Engagement du riverain pour l'entretien, la taille et l'arrosage.
+- Engagement écrit du riverain pour l'entretien, la taille et l'arrosage.
 
 ---
 
 ## Faire connaître le projet
 **Communication municipale**
 
-- Affichage en mairie
-- Panneau de communication.
+- Affichage en mairie, sur panneaux.
 - Page dans IntraMuros
 - Réunion publique de démarrage.
-- Publication dans bulletin municipal, avec convention à remplir.
+- Publication dans bulletin, avec convention à remplir en janvier.
+- Premier bilan dans bulletin en juillet.
 
 ---
 
@@ -77,7 +76,7 @@
 ---
 
 ## Un parcours simple et rapide, compréhensible par tous
-- Le participant signe une convention (en ligne ou sur papier)..
+- Le participant signe une convention (en ligne ou sur papier).
 - Un rendez-vous est pris avec un représentant de la mairie : les positions des fosses sont marquées à la bombe sur le trottoir.
 - Les services municipaux mettent en place les fosses et plantent éventuellement les végétaux choisis.
 
@@ -116,12 +115,10 @@
 ## Suivi et évaluation
 **Mesurer simplement les résultats**
 
-### Indicateurs proposés
 - Nombre de volontaires.
 - Nombre de fosses créées.
 - Taux d'échec (pas d'entretien).
 - Satisfaction des habitants.
-
 
 ---
 
@@ -131,7 +128,6 @@
 - La prise en charge par la mairie du coût des fosses et de certains végétaux.
 - Le  principe de la convention.
 - La campagne de communication.
-- Un bilan après **50 conventions** signées.
 
 ---
 
@@ -139,9 +135,7 @@
 **Un projet simple, utile et fédérateur**
 
 - Ce programme permet d'agir vite, à coût maîtrisé, avec les habitants, pour adapter le village aux canicules.
-
 - Les vrais bénéfices apparaîtront 2 ou 3 ans après le lancement, le temps que les végétaux poussent.
-
 - Un facteur clé de succès : Le portage et la mobilisation des élus.
 
 ---
@@ -156,21 +150,15 @@
 
 
 - Zone pavillonnaire : végétaliser les bords de route.
-
 - Relations et contacts avec ABF et autres organismes officiels (CAUE 82).
-
-- Liste des végétaux conseillés et des végétaux déconseillés.
-
-- Planning : Viser un déploiement début 2027 ( Publication janvier 2027 dans le bulletin municipal;  décision Conseil Municipal fin 2026) 
+- Planning : Viser un déploiement début 2027 (Publication janvier 2027 dans le bulletin municipal;  décision Conseil Municipal fin 2026) 
 
 ---
 
 ## A développer (suite)
 
 - Aides au financement : "Le Fonds vert" (État) ," Agences de l'Eau", "Ma Solution pour le Climat" (Région)
-
 - Doctrine municipale de végétalisation des espaces publics ( végétalisation vs  embellissement )
-
-- S'appuyer sur des associations (jardin partagé) pour une aide (fourniture des végétaux ? plantation ?)
+- S'appuyer sur des associations (jardins partagés) pour une aide (fourniture des végétaux ? plantation ?)
 
 
