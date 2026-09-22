@@ -1,25 +1,26 @@
 ## Végétalisation de nos murs
 ![Rue Cariben  Avant/Après ](images/rue_0_s.jpg){width=80%}
 
-## Végétaliser le village de Montpezat
+---
 
-- **Adapter le village à la répétition des canicules** 
+## Pourquoi végétaliser ?
+**Adapter le village à la succession de canicules **
+
+- Réduire la température des façades de **4 à 6 °C**.
+- Améliorer le confort d'été des riverains et des passants.
+- Permettre aux riverains, sous le contrôle de la mairie, de planter sur les trottoirs. (C'est interdit de modifier le domaine public).
+- Agir : ne plus subir son environnement.
+
+---
+
+## Comment Végétaliser le village 
+
 - **La mairie n'a pas les moyens d'entretenir des plantations en nombre**
 - **Pour avoir des résultats rapides et massifs, il faut associer les habitants**
 
 - *Programme communal d'aide à la création de fosses de plantation en pied de façade sur le domaine public*
 
 - *La vision : un village transformé par ses habitants et entièrement végétalisé dans 5 ans*
-
----
-
-## Pourquoi ce projet ?
-**Répondre concrètement à la succession de canicules **
-
-- Réduire la température des façades de **4 à 6 °C**.
-- Améliorer le confort d'été des riverains et des passants.
-- Permettre aux riverains, sous le contrôle de la mairie, de planter sur les trottoirs. (C'est interdit de modifier le domaine public).
-- Agir : ne plus subir son environnement.
 
 ---
 
