@@ -1,17 +1,167 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Végétalisons le village — Montpezat-de-Quercy</title>
+    <style>
+        :root {
+            --primary: #2e7d32;
+            --primary-hover: #1b5e20;
+            --bg-color: #f4f6f4;
+            --card-bg: #ffffff;
+            --text-color: #2c3e50;
+            --text-muted: #6c757d;
+            --border-color: #e2e8f0;
+        }
 
-Végétalisons le village
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 40px 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            box-sizing: border-box;
+        }
 
-<p>
-<a href="https://bertrand82.github.io/vegetalisation_m2q/index.html"> index </a>
-</p>
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+        }
 
-<p>
-<a href="https://bertrand82.github.io/vegetalisation_m2q/convention.html"> convention </a>
-</p>
+        header {
+            text-align: center;
+            margin-bottom: 32px;
+        }
 
-<p>
-<a href="https://bertrand82.github.io/vegetalisation_m2q/presentation.html"> presentation </a>
-</p>
-<p>
-<a href="https://bertrand82.github.io/vegetalisation_m2q/presentation.pptx"> presentation pptx </a>
-</p>
+        h1 {
+            color: var(--primary);
+            font-size: 1.8rem;
+            margin: 0 0 8px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        p.subtitle {
+            color: var(--text-muted);
+            margin: 0;
+            font-size: 0.95rem;
+        }
+
+        .links-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .link-card {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 14px 20px;
+            background-color: #f8faf8;
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            text-decoration: none;
+            color: var(--text-color);
+            font-weight: 500;
+            transition: all 0.2s ease-in-out;
+        }
+
+        .link-card:hover {
+            border-color: var(--primary);
+            background-color: #f0f7f0;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(46, 125, 50, 0.1);
+        }
+
+        .link-info {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .badge {
+            font-size: 0.75rem;
+            padding: 4px 8px;
+            border-radius: 6px;
+            background-color: #e8f5e9;
+            color: var(--primary);
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .badge.pptx {
+            background-color: #fff3e0;
+            color: #e65100;
+        }
+
+        .arrow {
+            color: var(--text-muted);
+            transition: transform 0.2s ease;
+        }
+
+        .link-card:hover .arrow {
+            color: var(--primary);
+            transform: translateX(4px);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>🌿 Végétalisons le village</h1>
+        <p class="subtitle">Ressources et documents du projet communal</p>
+    </header>
+
+    <div class="links-list">
+        <a href="https://bertrand82.github.io/vegetalisation_m2q" class="link-card">
+            <div class="link-info">
+                <span>🏠 Accueil (Index)</span>
+            </div>
+            <span class="arrow">→</span>
+        </a>
+
+        <a href="https://bertrand82.github.io/vegetalisation_m2q/convention.html" class="link-card">
+            <div class="link-info">
+                <span>📄 Convention riverains</span>
+            </div>
+            <span class="badge">HTML</span>
+        </a>
+
+        <a href="https://bertrand82.github.io/vegetalisation_m2q/presentation.html" class="link-card">
+            <div class="link-info">
+                <span>📊 Présentation du projet</span>
+            </div>
+            <span class="badge">HTML</span>
+        </a>
+
+        <a href="https://bertrand82.github.io/vegetalisation_m2q/presentation.pptx" class="link-card">
+            <div class="link-info">
+                <span>💻 Présentation Conseil Municipal</span>
+            </div>
+            <span class="badge pptx">PPTX</span>
+        </a>
+
+        <a href="https://bertrand82.github.io/vegetalisation_m2q/readme.html" class="link-card">
+            <div class="link-info">
+                <span>ℹ️ Documentation (README)</span>
+            </div>
+            <span class="badge">HTML</span>
+        </a>
+    </div>
+</div>
+
+</body>
+</html>
