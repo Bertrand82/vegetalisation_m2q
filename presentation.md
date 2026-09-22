@@ -71,14 +71,14 @@
 
 ---
 
-## Fosse de plantation en bordure de rue
+## Fosse de plantation pour pied de vigne en bordure de rue
 ![Fosse: réalisation](images/fosse.jpg){width=80%}
 
 ---
 
 ## Un parcours simple et rapide, compréhensible par tous
 - Le participant signe une convention (en ligne ou sur papier).
-- Un rendez-vous est pris avec un représentant de la mairie : les positions des fosses sont marquées à la bombe sur le trottoir.
+- Un rendez-vous est pris avec un représentant de la mairie : les positions des fosses sont marquées à la bombe sur le trottoir, en fonction des contraintes et du végétal visé.
 - Les services municipaux mettent en place les fosses et plantent éventuellement les végétaux choisis.
 
 ---
@@ -95,6 +95,7 @@
 ---
 
 ## Risques juridiques et points de vigilance
+**Les travaux doivent être facilement reversible**
 
 - Sécurité des piétons et de la circulation.
 - Réseaux enterrés et contraintes techniques.
