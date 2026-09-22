@@ -30,7 +30,8 @@ pandoc convention.md -o convention.pdf
 
 ## Trouver un titre et sous-titre
 
-### Semons aujourd'hui les solutions de demain
+### Plantons aujourd'hui les solutions de demain
+* Pour vous, pour nous tous.
 
 ### Cultivons la ville
 
@@ -131,3 +132,8 @@ Il a pour objectif de promouvoir la qualité de l’architecture, de l’urbanis
 Le CAUE est créé à initiative des responsables locaux et présidé par un élu local. C’est un organe de concertation entre les acteurs impliqués dans la production et la gestion de l’espace rural et urbain.
 
 https://www.les-caue-occitanie.fr/dossier-thematique/dossier-permis-de-vegetaliser-les-documents
+
+## Questions au CAUE
+
+- Des exemples de convention "sexy"
+- Quels organismes pour aide (region, etat, europe) :  “Le Fonds vert” (État) ,” Agences de l’Eau”, “Ma Solution pour le Climat” (Région)
