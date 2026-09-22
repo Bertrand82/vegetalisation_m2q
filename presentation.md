@@ -8,12 +8,12 @@
 
 - Réduire la température des façades de **4 à 6 °C**.
 - Améliorer le confort d'été des riverains et des passants.
-- Permettre aux riverains, sous le contrôle de la mairie, de planter sur les trottoirs. (C'est interdit de modifier le domaine public).
+- Permettre aux riverains, sous le contrôle de la mairie, de planter sur les trottoirs: Il est normalement interdit de modifier le domaine public.
 - Agir : ne plus subir son environnement.
 
 ---
 
-## Comment Végétaliser le village 
+## Comment végétaliser le village 
 
 - **La mairie n'a pas les moyens d'entretenir des plantations en nombre**
 - **Pour avoir des résultats rapides et massifs, il faut associer les habitants**
@@ -95,7 +95,7 @@
 ---
 
 ## Risques juridiques et points de vigilance
-**Les travaux doivent être facilement reversible**
+**Les travaux doivent être facilement réversibles**
 
 - Sécurité des piétons et de la circulation.
 - Réseaux enterrés et contraintes techniques.
