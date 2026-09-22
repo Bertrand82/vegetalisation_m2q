@@ -20,7 +20,7 @@
 
 - *Programme communal d'aide à la création de fosses de plantation en pied de façade sur le domaine public*
 
-- *La vision : un village transformé par ses habitants et entièrement végétalisé dans 5 ans*
+- *Les habitants s'occupe des végétaux : arosage, taille, soins*
 
 ---
 
