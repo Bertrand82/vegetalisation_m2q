@@ -136,3 +136,4 @@ https://www.les-caue-occitanie.fr/dossier-thematique/dossier-permis-de-vegetalis
 
 - Des exemples de convention "sexy"
 - Quels organismes pour aide (region, etat, europe) :  “Le Fonds vert” (État) ,” Agences de l’Eau”, “Ma Solution pour le Climat” (Région)
+- Il faudrait une convention courte, lisible, claire, au ton plutot optimiste et enthousiasme, qui soit facile à proposer aux administrés (Pardon, aux partenaires). Peux tu faire 2 propositions au format .md ?
