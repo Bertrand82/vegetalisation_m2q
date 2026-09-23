@@ -18,9 +18,9 @@
 - **La mairie n'a pas les moyens d'entretenir des plantations en nombre**
 - **Pour avoir des résultats rapides et massifs, il faut associer les habitants**
 
-- *La commune crée des fosses de plantation sur le domaine public*
+- *La commune crée des fosses de plantation sur le domaine public.*
 
-- *Les habitants s'occupent des végétaux : arrosage, taille, soins*
+- *Les habitants s'occupent des végétaux : arrosage, taille, soins.*
 
 ---
 
@@ -133,6 +133,14 @@
 
 ---
 
+## Planning
+**Pour viser un deploiement Printemps 2027**
+
+- Approbation par le conseil municipal : Octobre 2026
+- Réunion public fin 2026
+- Bulletin municipal : bouclage octobre 2026, parution Janvier 2027
+- Mise en place des fosses : Hiver/Printemps 2027 
+
 ## Conclusion
 **Un projet simple, utile et fédérateur**
 
@@ -153,14 +161,7 @@
 
 - Zone pavillonnaire : végétaliser les bords de route.
 - Relations et contacts avec ABF et autres organismes officiels (CAUE 82).
-- Planning : Viser un déploiement début 2027 (Publication janvier 2027 dans le bulletin municipal;  décision Conseil Municipal fin 2026) 
+- Aides au financement : "Le Fonds vert" (État) , "Ma Solution pour le Climat" (Région)
 
----
-
-## A développer (suite)
-
-- Aides au financement : "Le Fonds vert" (État) ," Agences de l'Eau", "Ma Solution pour le Climat" (Région)
-- Doctrine municipale de végétalisation des espaces publics ( végétalisation vs  embellissement )
-- S'appuyer sur des associations (jardins partagés) pour une aide (fourniture des végétaux ? plantation ?)
 
 
