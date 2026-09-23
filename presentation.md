@@ -18,9 +18,9 @@
 - **La mairie n'a pas les moyens d'entretenir des plantations en nombre**
 - **Pour avoir des résultats rapides et massifs, il faut associer les habitants**
 
-- *Programme communal d'aide à la création de fosses de plantation en pied de façade sur le domaine public*
+- *La commune crée des fosses de plantation sur le domaine public*
 
-- *Les habitants s'occupe des végétaux : arosage, taille, soins*
+- *Les habitants s'occupent des végétaux : arrosage, taille, soins*
 
 ---
 
