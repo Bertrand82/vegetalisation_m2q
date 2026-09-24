@@ -1,53 +1,39 @@
-# Charte Partenariale : « Végétalisons notre village ! »
+# Pacte Partenaire : Végétaliser nos rues pour adapter le village aux canicules
 
-Ensemble, redonnons de la fraîcheur et des couleurs à Montpezat ! Cette charte scelle notre partenariat : la Mairie aménage le domaine public, et vous donnez vie à votre pied de façade.
+Face à l'intensification des chaleurs estivales, notre commune et ses habitants s'associent. En rafraîchissant les façades, nous réduisons la température de 4 à 6 °C, préservons notre santé et protégeons nos habitations. 
 
----
-
-### 🟢 Les 4 engagements de la Mairie
-
-1. **Étude technique :** vérification des réseaux souterrains et validation de l'emplacement.
-2. **Création de la fosse :** découpe propre du trottoir et creusement sur mesure par nos services.
-3. **Préparation de la terre :** fourniture d'un mélange terre/compost idéal pour le démarrage.
-4. **Accompagnement :** conseils sur le choix des plantes et délivrance de l'autorisation officielle (AOT à titre gracieux).
+C'est une action concrète et utile à tous : la Mairie s'occupe du gros œuvre, et vous redonnez de la fraîcheur à votre pied de mur !
 
 ---
 
-### 🌿 Vos 4 engagements de partenaire
+### 1. Les engagements de la Mairie
+* **Sécurité & Faisabilité :** Vérification des réseaux enterrés et de l'accessibilité des trottoirs.
+* **Travaux initiaux :** Découpe propre du revêtement, creusement de la fosse et apport de terre fertile.
+* **Mise à disposition gratuite :** Autorisation d'occupation du domaine public à titre gracieux et conseils techniques.
 
-1. **Plantation :** installation de végétaux adaptés à notre climat et au sol local.
-2. **Soin & Arrosage :** entretien régulier et arrosage raisonné de votre micro-fosse.
-3. **Plaisir partagé & Sécurité :** taille régulière pour garder un passage libre (trottoir accessible) et visibilité parfaite de la rue.
-4. **Éco-responsabilité :** jardinage au naturel, sans aucun produit phytosanitaire.
+### 2. Les engagements du Partenaire (l'Habitant)
+* **Plantation & Soin :** Choix de végétaux adaptés au climat local, arrosage raisonné et entretien régulier.
+* **Sécurité & Passages :** Taille régulière pour maintenir le trottoir totalement accessible et dégager la visibilité.
+* **Nature au naturel :** Aucun produit chimique ou phytosanitaire.
 
----
+### 3. Végétaux conseillés & À éviter
+* **Recommandés :** Plantes grimpantes (jasmin étoilé, vigne, chèvrefeuille) et vivaces de rocaille (lavande, romarin, thym).
+* **Interdits :** Espèces invasives, plantes fortement épineuses ou toxiques.
 
-### 🌺 Quels végétaux choisir ?
-
-* **Oui aux beautés locales & mellifères :** plantes grimpantes (jasmin étoilé, vigne vierge, chèvrefeuille, rosier), vivaces (lavande, romarin, sauge, thym).
-* **Non aux espèces problématiques :** plantes invasives (bignone, herbe de la Pampa), épineuses agressives ou toxiques.
-
----
-
-### ⏱️ Modalités simples
-
-* **Durée :** accord valable 3 ans, renouvelable automatiquement.
-* **En cas de départ :** prévenez la mairie ! Le nouvel occupant pourra prendre le relais ou la fosse sera remise en état.
-* **Autorisation :** révocable en cas de nécessité technique ou de non-entretien.
+### 4. Un cadre simple et souple
+* **Durée :** 3 ans (renouvelable tacitement).
+* **Changement de situation :** En cas de déménagement ou d'arrêt, un simple préavis d'un mois permet d'informer la Mairie pour transmettre le flambeau ou remettre le site en état.
+* **Réversibilité :** La Mairie conserve la possibilité d'intervenir en cas de travaux d'urgence sur les réseaux ou la voirie.
 
 ---
 
-### 📋 Formulaire d'Engagement Partenaire
+### 📝 Inscription & Engagement
 
-| Information | Vos détails |
-| :--- | :--- |
-| **Nom et Prénom** | |
-| **Adresse de la plantation** | |
-| **Contact (Tél. / Email)** | |
-| **Végétaux souhaités** | |
+**Nom et Prénom :** ________________________________________________________________  
+**Adresse de la fosse :** ______________________________________________________________  
+**Contact (Téléphone / Email) :** ____________________________________________________  
+**Plantes envisagées :** ______________________________________________________________  
 
 Fait à ______________________, le ______________________
 
-**Signature du partenaire :** 
-
-**Visa de la Mairie :**
+**Le Partenaire (Signature) :**                                  **Pour la Mairie (Signature) :**
