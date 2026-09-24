@@ -85,7 +85,7 @@
 
 ## La « convention » avec les riverains
 
-[convention](https://bertrand82.github.io/vegetalisation_m2q/convention.html)
+[convention](https://bertrand82.github.io/vegetalisation_m2q/convention_2.html)
 
 ---
 
