@@ -1,6 +1,10 @@
 ## Végétalisation de nos murs
-![Rue Cariben  Avant/Après ](images/rue_0_s.jpg){width=80%}
 
+<p align="center">
+  <img src="images/rue_0.jpg" width="45%" alt="Image 1">
+  <img src="images/rue_0_v.jpg" width="45%" alt="Image 2">
+</p>
+Rue Cariben  Avant/Après
 ---
 
 ## Pourquoi végétaliser ?
