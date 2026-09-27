@@ -32,7 +32,7 @@
 
 ## Un projet inspiré d'exemples réussis
 
- - Lille – "Verdissons nos murs"
+ - Marguerittes (Gard)  [(site)](https://www.fredonoccitanie.com/jevi/2023/10/31/icu-chantier-de-plantation-participatif-demarche-citoyenne-a-marguerittes-gard/)
 
  - Végétaliser Banyuls, c'est permis ! [(site)](https://www.banyuls-sur-mer.com/vegetaliser-banyuls-cest-permis/) 
 
@@ -127,9 +127,9 @@
 ## Ce que le conseil municipal doit approuver
 
 - Le principe du programme.
-- La prise en charge par la mairie du coût des fosses et de certains végétaux.
-- Le  principe de la convention.
-- La campagne de communication.
+- La prise en charge par la mairie du coût des fosses.
+- La convention qui sera proposée.
+- L'achat de 100 pieds de jasmins et 100 pieds de chevrefeuille (10 Euros par pied).
 
 ---
 
