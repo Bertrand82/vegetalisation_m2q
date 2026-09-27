@@ -1,4 +1,4 @@
-# Pacte Partenaire : Végétaliser nos rues pour adapter le village aux canicules
+# Pacte Partenaire : Végétaliser nos rues pour rafraichir le village
 
 Face à l'intensification des chaleurs estivales, notre commune et ses habitants s'associent. En rafraîchissant les façades, nous réduisons la température de 4 à 6 °C, préservons notre santé et protégeons nos habitations. 
 
@@ -18,7 +18,7 @@ C'est une action concrète et utile à tous : la Mairie s'occupe du gros œuvre,
 
 ### 3. Végétaux conseillés & À éviter
 * **Recommandés :** Plantes grimpantes (jasmin étoilé, vigne, chèvrefeuille) et vivaces de rocaille (lavande, romarin, thym).
-* **Interdits :** Espèces invasives, plantes fortement épineuses ou toxiques.
+* **Interdits :** Espèces invasives, plantes fortement épineuses ou toxiques, arbres.
 
 ### 4. Un cadre simple et souple
 * **Durée :** 3 ans (renouvelable tacitement).

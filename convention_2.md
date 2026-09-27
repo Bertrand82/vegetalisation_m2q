@@ -1,37 +1,40 @@
-# Convention de Partenariat : Végétalisons Montpezat !
+# Charte Partenariale : Agir ensemble face aux canicules
 
-Faisons fleurir notre village ensemble ! La commune et le riverain s'associent pour rafraîchir nos ruelles et favoriser la biodiversité en pied de façade.
-
----
-
-### 🤝 Notre Accord en 3 points
-
-#### 1. La Mairie prépare
-* Vérification des réseaux enterrés et des règles de circulation.
-* Découpe du trottoir, creusement de la fosse et apport de bonne terre.
-* Délivrance de l'autorisation d'occupation du domaine public (gratuite).
-
-#### 2. Vous faites grandir
-* Choix et plantation de végétaux adaptés (grimpantes, lavandes, rosiers...).
-* Entretien courant : arrosage modéré, taille régulière (passage piéton toujours dégagé).
-* Jardinage 100 % naturel (zéro produit chimique).
-
-#### 3. Un cadre souple
-* **Durée :** 3 ans (renouvelable tacitement).
-* **Changement de vie :** vous déménagez ? Un simple mot à la Mairie pour transmettre le flambeau ou fermer la fosse.
-* **Sérénité :** accord modifiable ou révocable en cas de besoin d'utilité publique.
+Créer des îlots de fraîcheur dans nos ruelles est une réponse pragmatique et efficace face aux chaleurs estivalles. Par cette charte, la commune et le riverain unissent leurs forces pour un village plus respirant et plus agréable à vivre.
 
 ---
 
-### 📝 Rejoignez l'aventure !
+### 🤝 Notre accord en 3 piliers
 
-**Nom & Prénom :** __________________________________________________  
-**Adresse du projet :** __________________________________________________  
-**Téléphone / Email :** __________________________________________________  
-**Plantes envisagées :** __________________________________________________  
+#### 1. La Mairie prépare le terrain
+* Étude technique des sols et des réseaux souterrains.
+* Découpe du trottoir, creusement de la fosse de plantation et apport de bonne terre.
+* Délivrance d'une autorisation gratuite d'occupation du domaine public.
+
+#### 2. Vous faites grandir la fraîcheur
+* Installation et soin de plantes adaptées aux chaleurs et à la sécheresse.
+* Arrosage modéré et taille régulière pour conserver le trottoir dégagé et sécurisé.
+* Entretien.
+
+#### 3. Un partenariat serein
+* **Durée :** Accord valable 3 ans, renouvelable par simple continuité.
+* **Transparence :** Vous déménagez ? Un simple mot à la Mairie permet de céder le projet à un voisin ou de fermer la fosse sans frais.
+* **Pragmatisme :** L'espace restant sur le domaine public, la Mairie peut réintervenir si des travaux majeurs de voirie le nécessitent.
+
+---
+
+### 🌿 Des plantes adaptées à notre climat
+* **Privilégier :** Vigne, Vigne vierge, jasmin, rosiers (sans trop d'épines), lavande, sauge, romarin.
+* **Exclure :** Plantes invasives (bignone, herbe de la Pampa), végétaux dangereux ou piquants (certains rosiers), végétaux abimant la voirie (arbres comme olivier, glycine), plantes abimant les façades (lierre).
+
+---
+
+### 📋 Bulletin de Partenariat
+
+**Nom & Prénom du riverain :** ____________________________________________________  
+**Adresse du projet :** _____________________________________________________________  
+**Coordonnées (Tél. / Email) :** ____________________________________________________  
 
 Fait à ______________________, le ______________________
 
-**Votre signature :** 
-
-**Pour la Mairie :**
+**Signature du partenaire :**                                    **Visa du Maire :**

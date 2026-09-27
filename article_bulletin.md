@@ -1,36 +1,44 @@
-# Végétalisons nos murs : un projet collectif pour notre village
+# On verdit nos murs : et si on rafraîchissait le village ensemble ?
 
-Face aux épisodes de canicule de plus en plus fréquents, la municipalité souhaite engager une démarche d'adaptation du village. La végétalisation de nos rues constitue une réponse concrète, simple et fédératrice.
+Envie de retrouver de la douceur, des fleurs et de la fraîcheur au cœur de nos rues ? La municipalité lance une belle aventure collective pour remettre la nature à l'honneur. 
 
----
+Le principe est simple : **la mairie réalise les travaux sur le domaine public, et vous donnez vie à vos façades en y faisant pousser de jolies plantes !** 
 
-## Pourquoi végétaliser ?
+La végétalisation du village doit être massive. La mairie peut amménager l'espace public pour planter des végétaux en pleine terre, mais elle n'a pas les moyens de les entretenir. Ce sera votre rôle: Les arroser, les tailler, les desherber.
 
-**Adapter le village à la succession de canicules**
-
-* **Réduire la température des façades de 4 à 6 °C :** les plantes grimpantes agissent comme un bouclier thermique naturel.
-* **Améliorer le confort d'été :** une fraicheur bénéfique tant pour les riverains que pour les passants.
-* **Autoriser la plantation sur les trottoirs :** alors qu'il est normalement interdit de modifier le domaine public, la mairie souhaite permettre aux habitants d'y planter sous son contrôle.
-* **Agir plutôt que subir :** privilégier l'action concrète, individuelle et collective, plutôt que la sidération face aux canicules.
+Une idée concrète, conviviale et surtout… à réaliser tous ensemble !
 
 ---
 
-## Comment végétaliser le village ?
+## Pourquoi sauter le pas ?
 
-* **Une action concertée :** la mairie n'a pas les moyens d'entretenir des plantations en grand nombre sur l'ensemble de la commune. Pour obtenir des résultats rapides et massifs, il est indispensable d'associer les habitants.
-* **Un programme communal dédié :** la municipalité met en place un dispositif d'aide à la création de fosses de plantation en pied de façade sur le domaine public.
-* **Un partage clair des rôles :** les services municipaux réalisent les travaux de creusement des fosses (et peuvent éventuellement fournir le végétal), tandis que les habitants s'occupent du suivi régulier (arrosage, taille, soins).
+**Pour créer un cadre de vie doux, frais et coloré**
+
+* **Jusqu'à 6 °C de moins sur vos façades :** les plantes grimpantes créent un véritable bouclier thermique naturel pour rafraîchir nos maisons en été.
+* **Des rues vivantes et respirables :** un vrai bonheur fleuri pour les piétons, les voisins et les enfants qui s'y promènent.
+* **Votre touche personnelle sur le trottoir :** exceptionnellement, la commune vous donne le feu vert pour aménager le pied de votre façade !
+* **Une belle dynamique locale :** agissons ensemble, main dans la main, pour embellir notre village tout en l'adaptant aux beaux jours.
 
 ---
 
-## En pratique : un partenariat simple
+## Comment ça marche ?
 
-Pour garantir la sécurité et la pérennité du dispositif (gestion des réseaux enterrés, maintien du passage piéton et réversibilité des aménagements), une **convention d'occupation temporaire** sera signée entre le riverain et la commune.
+* **Un vrai travail d'équipe :** pour que notre village verdisse vite et harmonieusement, chaque geste compte. On a besoin du enthousiasme de chacun !
+* **Un coup de pouce de la commune :** les services municipaux viennent creuser gratuitement la fosse de plantation au pied de vos murs.
+* **Un partenariat gagnant-gagnant :** la mairie s'occupe des gros travaux (et peut même vous guider sur les plantes idéales), vous prenez le relais pour le chouchoutage (un peu d'eau, un peu d'amour et de la taille de temps en temps).
 
-1. **Inscription :** remplissez la convention (disponible en mairie, sur IntraMuros ou dans le prochain bulletin).
-2. **Marquage :** un rendez-vous sur place permet d'identifier l'emplacement idéal sur le trottoir.
-3. **Aménagement :** la mairie crée la fosse et vous installez vos plantations !
+---
 
-## Ensemble, faisons de notre village un espace plus frais, vert et agréable à vivre !
+## Prêts à vous lancer ? C'est ultra simple !
 
-Partageons la vision d'un village végétalisé et plus frais. Chacun doit participer !
+Afin d'assurer la sécurité de tous (gestion des réseaux enterrés et libre passage sur les trottoirs), nous signons simplement une petite **convention d'occupation** très rapide.
+
+1. **Top départ :** remplissez le formulaire d'inscription (disponible en mairie, sur l'application IntraMuros ou joint à ce bulletin).
+2. **Le repérage :** un agent vient à votre rencontre pour valider le meilleur emplacement devant chez vous.
+3. **À vous de jouer :** la mairie creuse la fosse, vous installez vos pousses… et la nature fait le reste !
+
+---
+
+## Ensemble, faisons de notre village un havre de fraîcheur où il fait bon vivre !
+
+Rejoignez le mouvement, faites fleurir vos idées et laissons la nature embellir nos rues !
