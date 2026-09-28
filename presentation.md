@@ -1,7 +1,6 @@
 ## Végétalisation de nos murs
-|Avant| Après |
-| :---: | :---: |
-| ![Alt 1](images/rue_0.jpg){width=40%} | ![Alt 2](images/rue_0_v.png){width=40%} |
+
+![Avant / Après ](images/rue_0_s.jpg){width=80%}
 
 Rue Cariben  Avant/Après
 ---
