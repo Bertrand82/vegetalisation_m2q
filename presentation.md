@@ -86,8 +86,8 @@ Rue Cariben  Avant/Après
 ---
 
 ## La « convention » avec les riverains
-
-[convention](https://bertrand82.github.io/vegetalisation_m2q/convention_2.html)
+Une convention décrit formalisée et simple les engagements de la mairie et des riverains.
+[convention](https://bertrand82.github.io/vegetalisation_m2q/convention.pdf)
 
 ---
 

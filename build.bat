@@ -4,6 +4,7 @@ pandoc presentation.md -o presentation.pptx
 REM pandoc convention_2.md -o convention_2.pdf --pdf-engine=xelatex
 REM pandoc convention_2.md -o convention_2.pdf --pdf-engine=xelatex -V mainfont="Arial" -V geometry:"top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm"
 pandoc convention_0.md -o convention_2.pdf --pdf-engine=xelatex -V mainfont="Liberation Serif" -V geometry:"top=2.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm"
+pandoc convention.md -o convention.pdf --pdf-engine=xelatex -V mainfont="Liberation Serif" -V geometry:"top=2.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm"
 
 
 pandoc convention_0.md -o convention_0.html
