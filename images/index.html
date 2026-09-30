@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Images</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        h1 {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 0.5rem;
+        }
+
+        ul {
+            padding: 0;
+            list-style: none;
+        }
+
+        li {
+            margin: 0.6rem 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #1769aa;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        img {
+            max-width: 180px;
+            max-height: 120px;
+            vertical-align: middle;
+            margin-right: 1rem;
+            object-fit: contain;
+        }
+
+        .error {
+            color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fichiers du répertoire images</h1>
+
+    <ul id="file-list">
+        <li>Chargement...</li>
+    </ul>
+
+    <script>
+        const owner = "Bertrand82";
+        const repository = "vegetalisation_m2q";
+        const branch = "master";
+        const directory = "images";
+
+        const apiUrl =
+            `https://api.github.com/repos/${owner}/${repository}/contents/${directory}?ref=${branch}`;
+
+        const pageUrl =
+            `https://${owner.toLowerCase()}.github.io/${repository}/${directory}/`;
+
+        const fileList = document.getElementById("file-list");
+
+        fetch(apiUrl)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Erreur HTTP ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(files => {
+                fileList.innerHTML = "";
+
+                files
+                    .filter(file => file.type === "file")
+                    .sort((a, b) => a.name.localeCompare(b.name))
+                    .forEach(file => {
+                        const li = document.createElement("li");
+                        const link = document.createElement("a");
+
+                        link.href = pageUrl + encodeURIComponent(file.name);
+                        link.textContent = file.name;
+                        link.target = "_blank";
+                        link.rel = "noopener";
+
+                        if (/\.(jpg|jpeg|png|gif|webp|svg)$/i.test(file.name)) {
+                            const image = document.createElement("img");
+                            image.src = link.href;
+                            image.alt = file.name;
+                            li.appendChild(image);
+                        }
+
+                        li.appendChild(link);
+                        fileList.appendChild(li);
+                    });
+            })
+            .catch(error => {
+                fileList.innerHTML =
+                    `<li class="error">Impossible de charger la liste : ${error.message}</li>`;
+            });
+    </script>
+</body>
+</html>
