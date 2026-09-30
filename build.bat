@@ -1,4 +1,4 @@
-mkdir docs
+
 pandoc presentation.md -o presentation.html
 pandoc presentation.md -o presentation.pptx
 REM pandoc convention_2.md -o convention_2.pdf --pdf-engine=xelatex

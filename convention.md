@@ -1,4 +1,4 @@
-# Pacte Partenaire : Végétaliser nos rues pour rafraichir le village
+# Convention  : Végétaliser nos rues pour rafraichir le village
 
 Face à l'intensification des chaleurs estivales, notre commune et ses habitants s'associent. En rafraîchissant les façades, nous réduisons la température de 4 à 6 °C, préservons notre santé et protégeons nos habitations. 
 
@@ -16,7 +16,7 @@ C'est une action concrète et utile à tous : la Mairie s'occupe du gros œuvre,
 * **Sécurité & Passages :** Taille régulière pour maintenir le trottoir totalement accessible et dégager la visibilité.
 * **Nature au naturel :** Aucun produit chimique ou phytosanitaire.
 
-### 3. Végétaux conseillés & À éviter
+### 3. Végétaux conseillés et à éviter
 * **Recommandés :** Plantes grimpantes (jasmin étoilé, vigne, chèvrefeuille) et vivaces de rocaille (lavande, romarin, thym).
 * **Interdits :** Espèces invasives, plantes fortement épineuses ou toxiques, arbres.
 
