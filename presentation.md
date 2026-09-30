@@ -2,7 +2,6 @@
 
 ![Avant / Après ](images/rue_5_s.png){width=80%}
 
-Rue Cariben  Avant/Après
 ---
 
 ## Pourquoi végétaliser ?
