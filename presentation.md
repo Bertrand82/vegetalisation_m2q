@@ -1,6 +1,6 @@
 ## Végétalisation de nos murs
 
-![Avant / Après ](images/rue_0_s.png){width=80%}
+![Avant / Après ](images/rue_5_s.png){width=80%}
 
 Rue Cariben  Avant/Après
 ---
@@ -28,7 +28,7 @@ Rue Cariben  Avant/Après
 
 ## Avant / Après
 
-![Exemples de végétalisation dans les ruelles ](images/rue_1_s.jpg){width=80%}
+![Exemples de végétalisation dans les ruelles ](images/rue_3_s.jpg){width=80%}
 
 ---
 
@@ -154,7 +154,7 @@ Une convention décrit formalisée et simple les engagements de la mairie et des
 
 ## Avant / Après
 
-![Exemples de végétalisation  ](images/rue_2_s.jpg){width=80%}
+![Exemples de végétalisation  ](images/rue_4_s.jpg){width=80%}
 
 ---
 
