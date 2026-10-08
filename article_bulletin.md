@@ -6,7 +6,6 @@ L'idée est simple : **la commune aménage l'espace public et crée les conditio
 
 L'objectif est de développer progressivement la végétalisation dans le village, notamment au pied des façades lorsque la configuration des lieux le permet. Une démarche collective pour apporter davantage d'ombre, de fraîcheur, de fleurs et de biodiversité dans nos rues.
 
----
 
 ## Pourquoi végétaliser nos rues ?
 
@@ -19,7 +18,6 @@ L'objectif est de développer progressivement la végétalisation dans le villag
 
 La végétalisation sera d'autant plus efficace qu'elle sera développée **à l'échelle du village**. C'est pourquoi la commune souhaite encourager les initiatives des habitants et multiplier progressivement les plantations là où cela est possible.
 
----
 
 ## Comment ça marche ?
 
@@ -33,8 +31,6 @@ Les habitants qui souhaitent participer s'engagent, de leur côté, à faire viv
 
 Les espèces et les emplacements seront choisis en tenant compte des caractéristiques de chaque rue : exposition, largeur du trottoir, réseaux enterrés, circulation des piétons et contraintes du bâtiment.
 
----
-
 ## Prêts à participer ? C'est simple !
 
 Afin de garantir la sécurité de tous et de préserver le libre passage sur les trottoirs, chaque projet sera étudié avec les services municipaux.
@@ -46,7 +42,6 @@ Afin de garantir la sécurité de tous et de préserver le libre passage sur les
 
 Chaque projet sera étudié au cas par cas afin de préserver les réseaux, la sécurité et l'accessibilité des rues.
 
----
 
 ## Ensemble, faisons pousser un village plus frais !
 
