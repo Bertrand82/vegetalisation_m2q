@@ -4,7 +4,7 @@ Et si nos rues devenaient plus vertes, plus fraîches et plus agréables à vivr
 
 L'idée est simple : **la commune aménage l'espace public et crée les conditions pour planter en pleine terre, les habitants contribuent à faire vivre cette végétation au quotidien.**
 
-L'objectif est de développer progressivement la végétalisation dans le village, notamment au pied des façades lorsque la configuration des lieux le permet. Une démarche collective pour apporter davantage d'ombre, de fraîcheur, de fleurs et de biodiversité dans nos rues.
+L'objectif est de développer progressivement la végétalisation dans le village, notamment au pied des façades. Une démarche collective pour apporter davantage d'ombre, de fraîcheur dans nos rues.
 
 
 ## Pourquoi végétaliser nos rues ?
@@ -12,8 +12,7 @@ L'objectif est de développer progressivement la végétalisation dans le villag
 **Pour améliorer notre cadre de vie et mieux nous adapter aux fortes chaleurs.**
 
 * **Des façades mieux protégées du soleil :** les plantes grimpantes apportent de l'ombre et limitent l'échauffement des murs exposés aux fortes chaleurs estivales.
-* **Des rues plus fraîches et plus agréables :** la végétation contribue à créer des espaces plus accueillants pour les habitants, les promeneurs et les enfants.
-* **Davantage de nature au cœur du village :** fleurs, feuillages et plantes grimpantes offrent aussi des refuges et des ressources pour la petite faune.
+* **Des rues plus fraîches et plus agréables :** la végétation contribue à créer des espaces plus accueillants.
 * **Un village plus vivant et plus coloré :** chaque façade végétalisée participe à l'embellissement de nos rues et à l'identité de Montpezat.
 
 La végétalisation sera d'autant plus efficace qu'elle sera développée **à l'échelle du village**. C'est pourquoi la commune souhaite encourager les initiatives des habitants et multiplier progressivement les plantations là où cela est possible.
