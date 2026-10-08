@@ -15,6 +15,7 @@ pandoc convention_2.md -o convention_2.html
 pandoc README.md -o readme.html
 pandoc article_bulletin.md -o article_bulletin.html
 pandoc article_bulletin.md -o article_bulletin.docx
+pandoc article_bulletin.md -o article_bulletin.pdf
 
 git add .
 git commit -m "s"
