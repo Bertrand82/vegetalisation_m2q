@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Magazine Municipal - Végétalisation Montpezat-de-Quercy</title>
+  <style>
+    /* --- FORMAT A4 ET IMPRESSION --- */
+    @page {
+      size: A4 portrait;
+      margin: 12mm 15mm;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      color: #2c3e50;
+      background-color: #f4f6f7;
+      line-height: 1.38;
+      font-size: 9pt;
+    }
+
+    /* Conteneur principal A4 */
+    .page {
+      width: 210mm;
+      height: 297mm;
+      margin: 0 auto;
+      background: #ffffff;
+      padding: 12mm 15mm;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    /* --- BANDEAU SUPERIEUR --- */
+    header {
+      border-bottom: 2.5px solid #2e7d32;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .badge-rubrique {
+      background-color: #2e7d32;
+      color: #ffffff;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      font-size: 8pt;
+      letter-spacing: 0.8px;
+      border-radius: 2px;
+    }
+
+    .commune-info {
+      font-size: 8pt;
+      color: #7f8c8d;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    /* --- TITRE ET CHAPEAU --- */
+    h1 {
+      color: #1b5e20;
+      font-size: 19pt;
+      line-height: 1.15;
+      margin-bottom: 8px;
+      font-weight: 800;
+    }
+
+    .chapeau {
+      background-color: #e8f5e9;
+      border-left: 4px solid #2e7d32;
+      padding: 8px 12px;
+      font-size: 9.5pt;
+      font-weight: 600;
+      color: #1b5e20;
+      margin-bottom: 10px;
+      border-radius: 0 4px 4px 0;
+    }
+
+    /* --- DISPOSITION 2 COLONNES --- */
+    .columns-container {
+      display: flex;
+      gap: 10mm;
+      flex: 1;
+    }
+
+    .col {
+      flex: 1;
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+    }
+
+    h2 {
+      color: #2e7d32;
+      font-size: 10.5pt;
+      border-bottom: 1.5px solid #a5d6a7;
+      padding-bottom: 2px;
+      margin-top: 8px;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    p {
+      margin-bottom: 6px;
+      text-align: justify;
+    }
+
+    strong {
+      color: #1b5e20;
+    }
+
+    /* --- IMAGES --- */
+    .img-box {
+      margin: 5px 0;
+      width: 100%;
+    }
+
+    .img-box img {
+      width: 100%;
+      height: auto;
+      border-radius: 3px;
+      display: block;
+      object-fit: cover;
+    }
+
+    .main-img img {
+      max-height: 140px;
+    }
+
+    .secondary-img img {
+      max-height: 450px;
+    }
+
+    figcaption {
+      font-size: 7.5pt;
+      color: #616161;
+      font-style: italic;
+      margin-top: 2px;
+      text-align: right;
+    }
+
+    /* --- LISTE DES ÉTAPES --- */
+    .steps-list {
+      list-style: none;
+      margin-top: 4px;
+      margin-bottom: 6px;
+    }
+
+    .steps-list li {
+      position: relative;
+      padding-left: 22px;
+      margin-bottom: 5px;
+      font-size: 8.5pt;
+    }
+
+    .steps-list li::before {
+      content: attr(data-step);
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 16px;
+      height: 16px;
+      background-color: #2e7d32;
+      color: white;
+      font-weight: bold;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 16px;
+      font-size: 7.5pt;
+    }
+
+    /* --- ENCADRÉ FINAL / CALLOUT --- */
+    .callout {
+      background: #f1f8e9;
+      border: 1.5px dashed #558b2f;
+      padding: 8px;
+      border-radius: 5px;
+      text-align: center;
+      margin-top: auto;
+      margin-bottom: 2px;
+    }
+
+    .callout h3 {
+      color: #33691e;
+      font-size: 9.5pt;
+      margin-bottom: 2px;
+    }
+
+    .callout p {
+      font-size: 8.5pt;
+      text-align: center;
+      margin-bottom: 0;
+    }
+
+    /* --- FOOTER --- */
+    footer {
+      border-top: 1px solid #cfd8dc;
+      padding-top: 5px;
+      display: flex;
+      justify-content: space-between;
+      font-size: 7.5pt;
+      color: #90a4ae;
+    }
+
+    @media print {
+      body {
+        background: none;
+      }
+      .page {
+        box-shadow: none;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="page">
+    
+    <!-- HEADER -->
+    <header>
+      <span class="badge-rubrique">Cadre de vie &amp; Environnement</span>
+      <span class="commune-info">Montpezat-de-Quercy • Bulletin Municipal</span>
+    </header>
+
+   
+      <h1>Ensemble, végétalisons notre village.</h1>
+
+      <div class="chapeau">
+        Contre le phénomène d'îlot de chaleur en zone urbaine, il faut végétaliser. Les gains en température sont énormes : de 4 à 5 degrés.
+      </div>
+
+      <!-- 2 COLONNES -->
+      <div class="columns-container">
+        
+        <!-- COLONNE GAUCHE -->
+        <div class="col">
+         
+
+          <p>
+            L'objectif est de développer massivement la végétalisation dans le village, notamment au pied des façades. Une démarche collective pour apporter davantage d'ombre, de fraîcheur dans nos rues.
+          </p>
+
+      
+          <p>
+            Des plantes grimpantes sur les façades permettent, avec une faible emprise au sol, d'assurer la végétalisation espérée.
+          </p>
+		   <figure class="img-box main-img">
+            <img src="images/rue_1_vegetali.png" alt="Rue végétalisée">
+            <figcaption>Végétalisation au pied des façades.</figcaption>
+          </figure>
+
+          <h2>Comment ça marche ?</h2>
+
+          <p>
+            <strong>L'idée est simple : la commune aménage l'espace public et crée les conditions pour planter en pleine terre, les habitants contribuent à entretenir cette végétation.</strong>
+          </p>
+
+          <p>
+            <strong>La commune et les habitants ont chacun leur rôle.</strong>
+          </p>
+
+          <p>
+            La municipalité prend en charge les travaux nécessaires sur le domaine public : étude de l'emplacement, vérification des réseaux, création de la fosse de plantation et aménagement sur le domaine public.
+          </p>
+
+          <p>
+            Les habitants qui souhaitent participer s'engagent, de leur côté, à faire vivre les plantations : arrosage, entretien courant, taille et signalement des éventuels problèmes.
+          </p>
+		   <figure class="img-box secondary-img">
+            <img src="images/rue_3_s.jpg" alt="Exemple de rue fleurie">
+			<figcaption>Vue Avant/Après imaginé par IA.</figcaption>
+          </figure>
+        </div>
+
+        <!-- COLONNE DROITE -->
+        <div class="col">
+          <figure class="img-box secondary-img">
+            <img src="images/fosse2.jpg" alt="Fosse de plantation">
+            <figcaption>Aménagement de la fosse par la mairie.</figcaption>
+          </figure>
+
+          <p>
+            <strong>C'est un véritable partenariat : la commune aménage, les habitants entretiennent et, ensemble, nous faisons grandir la végétation dans nos rues.</strong>
+          </p>
+
+          <p>
+            Les espèces et les emplacements seront choisis en tenant compte des caractéristiques de chaque rue : exposition, largeur du trottoir, réseaux enterrés, circulation des piétons et contraintes du bâtiment.
+          </p>
+
+          <h2>Prêts à participer ? C'est simple !</h2>
+
+          <p style="font-size: 8.5pt; margin-bottom: 4px;">
+            Afin de garantir la sécurité de tous et de préserver le libre passage sur les trottoirs, chaque projet sera étudié avec les services municipaux.
+          </p>
+
+          <ul class="steps-list">
+            <li data-step="1">
+              <strong>Inscrivez-vous :</strong> remplissez le formulaire disponible en mairie, sur l'application IntraMuros ou joint à ce bulletin.
+            </li>
+            <li data-step="2">
+              <strong>Un emplacement est étudié :</strong> un agent municipal vient sur place pour vérifier la faisabilité et déterminer l'emplacement le plus adapté.
+            </li>
+            <li data-step="3">
+              <strong>Une convention est établie :</strong> elle précise les engagements de la commune et ceux de l'habitant.
+            </li>
+            <li data-step="4">
+              <strong>La plantation peut commencer :</strong> la commune réalise l'aménagement prévu et vous participez ensuite à l'entretien de la végétation.
+            </li>
+          </ul>
+
+          <p style="font-size: 8pt; font-style: italic; color: #555; background: #fafafa; padding: 4px; border-left: 2px solid #a5d6a7;">
+            Chaque projet sera étudié au cas par cas afin de préserver les réseaux, la sécurité et l'accessibilité des rues.
+          </p>
+
+         
+
+          <div class="callout">
+            <h3>Ensemble, faisons pousser un village plus frais !</h3>
+            <p>
+              Végétaliser sa façade peut sembler être un petit geste. Mais lorsque plusieurs maisons sont végétalisées, <strong>ce sont peu à peu des rues entières qui changent.</strong><br>
+              Faisons de Montpezat un village plus vert, plus frais et plus agréable à vivre, <strong>une façade, une plantation et un habitant à la fois.</strong>
+            </p>
+            <p style="margin-top: 4px; font-weight: bold; color: #2e7d32;">
+              Vous souhaitez participer ? Inscrivez-vous auprès de la mairie !
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+      <span>Journal Municipal de Montpezat-de-Quercy</span>
+      <span>Page 5</span>
+    </footer>
+
+  </div>
+
+</body>
+</html>
